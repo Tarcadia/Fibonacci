@@ -3,11 +3,12 @@ As is known to all, we all love FIBONACCI as it has such a beautiful style as th
 
 ## Rule
 Implement a fundamental brick (a class, a module, a function, etc) of your langurage, which with a query _q_, providing _fibonacci[q]_ as an output.
-Use **q** to identify the query input;
-Use **a** to identify the answer output (if any);
-Use **x** to identify the list, or array, or whatever you use, as the fibonacci it self;
-Use **i** to identify the looping process, or the looped that thing;
-Write any wierd code you want.
+- Use **q** to identify the query input;
+- Use **a** to identify the answer output (if any);
+- Use **x** to identify the list, or array, or whatever you use, as the fibonacci it self;
+- Use **i** to identify the looping process, or the looped that thing;
+- Write any wierd code you want.
 
 ## Git
-Always use a branch named "fea-<language>" to commit and merge, or use pull request to merge.
+- Always use a branch named "fea-<language>" to commit and merge, or use pull request to merge.
+- Always name your file "fibonacci.<somewhat>", unless it is already implemented. If you are adding a new file which is already implemented, please name your file "fibonacci-<whateverdiffers>.<somewhat>"
