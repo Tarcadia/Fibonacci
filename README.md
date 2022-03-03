@@ -8,3 +8,6 @@ Use **a** to identify the answer output (if any);
 Use **x** to identify the list, or array, or whatever you use, as the fibonacci it self;
 Use **i** to identify the looping process, or the looped that thing;
 Write any wierd code you want.
+
+## Git
+Always use a branch named "fea-<language>" to commit and merge, or use pull request to merge.
