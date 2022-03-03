@@ -7,6 +7,7 @@ Implement a fundamental brick (a class, a module, a function, etc) of your langu
 - Use **a** to identify the answer output (if any);
 - Use **x** to identify the list, or array, or whatever you use, as the fibonacci it self;
 - Use **i** to identify the looping process, or the looped that thing;
+- Use **N** to identify the length, always choose N = 32767;
 - Write any wierd code you want.
 
 ## Git
