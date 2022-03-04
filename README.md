@@ -8,7 +8,7 @@ Implement a fundamental brick (a class, a module, a function, etc) of your langu
 - Use **x** to identify the list, or array, or whatever you use, as the fibonacci it self (sugested, if any);
 - Use **i** to identify the looping process, or the looped that thing (sugested, if any);
 - Use **N** to identify the length, always choose N = 9999 (sugested, if any);
-- Write any wierd code you want, these labels sugested can help other to under stand your code.
+- Write any wierd code you want, these identifiers sugested can help other to under stand your code.
 
 ## Git
 - Always use an orphan branch named "fea-<language>" to commit and merge, or use pull request to merge.
