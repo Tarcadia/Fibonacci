@@ -5,11 +5,11 @@ As is known to all, we all love FIBONACCI as it has such a beautiful style as th
 - Implement a fundamental brick (a class, a module, a function, etc) of your langurage, specify the input and output of this brick;
 - Write any wierd code you want;
 - Here are some suggested identifier for better reading when it comes to a wierd expression;
-- - Use **q** to identify the query input (sugested, if any);
-- - Use **a** to identify the answer output (sugested, if any);
-- - Use **x** to identify the list, or array, or whatever you use, as the fibonacci it self (sugested, if any);
-- - Use **i** to identify the looping process, or the looped that thing (sugested, if any);
-- - Use **N** to identify the length, always choose N = 9999 (sugested, if any);
+  - Use **q** to identify the query input (sugested, if any);
+  - Use **a** to identify the answer output (sugested, if any);
+  - Use **x** to identify the list, or array, or whatever you use, as the fibonacci it self (sugested, if any);
+  - Use **i** to identify the looping process, or the looped that thing (sugested, if any);
+  - Use **N** to identify the length, always choose N = 9999 (sugested, if any);
 
 ## Git
 - Always make an orphan branch named "fea-<language>-<whateverdiffers>" for a new implementation, open a Pull Request to main for code review after implemented;
