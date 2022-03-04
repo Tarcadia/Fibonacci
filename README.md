@@ -12,7 +12,7 @@ As is known to all, we all love FIBONACCI as it has such a beautiful style as th
   - Use **N** to identify the length, always choose N = 9999 (sugested, if any);
 
 ## Git
-- Always make an orphan branch named "fea-(language)-(whateverdiffers)" for a new implementation, open a Pull Request to main for code review after implemented;
+- Always make a branch named "fea-(language)-(whateverdiffers)" for a new implementation, open a Pull Request to main for code review after implemented;
 - Always branch for optimization;
 - Always put your code "(language)/fibonacci.(somewhatlangsuffix)", unless it is already implemented;
 - If you are adding a new implementation to an already-implemented language, please name your file "fibonacci-(whateverdiffers).(somewhatlangsuffix)".
